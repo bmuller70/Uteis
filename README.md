@@ -1,5 +1,5 @@
 Repositorio dedicado 
-para conteudos e divertimentos
+para conteudos e utilitarios. 
 
 #### 1 - Gerenciador de tarefas
 Um gerenciador de tarefa simples feito com TK com os metodos:
